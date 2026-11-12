@@ -1,36 +1,39 @@
-Hi, I'm Ivan 👋
+# Hi, I'm Ivan 👋
 
 Android developer from Cartagena, Colombia 🇨🇴
-Systems Engineering student. I build Android apps with Kotlin and Jetpack Compose.
 
-🔭 What I'm working on
-Building small, complete Android apps with modern tools
-Improving my English every day
-🛠️ Tech stack
-Languages: Kotlin, Java
-Android: Jetpack Compose, ViewModel, StateFlow, Room, Hilt, Retrofit
-Architecture: MVVM, Clean Architecture
-Tools: Git, GitHub, Android Studio
+Systems Engineering student. I build Android apps with **Kotlin** and **Jetpack Compose**.
 
+## 🚀 Featured project
 
+### [CamiCalor](https://github.com/IvanArroyo28/camicalor-android)
 
-📫 Contact
-   - LinkedIn: [Ivan Arroyo](https://www.linkedin.com/in/ivan-arroyo-5257b1203/)
-   - Email: ivanarroyo2014@gmail.com
+An online T-shirt store inspired by Cartagena: product catalog with search and filters, a persistent cart and a complete checkout flow.
 
-I'm open to junior Android and internship roles.
+`Jetpack Compose` `Clean Architecture` `Hilt` `Room` `Retrofit` `Coroutines & Flow` `GitHub Actions`
 
-<!--
-**IvanArroyo28/IvanArroyo28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/IvanArroyo28/camicalor-android">
+  <img src="https://raw.githubusercontent.com/IvanArroyo28/camicalor-android/main/docs/screenshots/demo.gif" width="220" alt="CamiCalor demo" />
+</a>
 
-Here are some ideas to get you started:
+[📲 Download the APK](https://github.com/IvanArroyo28/camicalor-android/releases/latest)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm working on
+
+- Building small, complete Android apps with modern tools
+- Improving my English every day
+
+## 🛠️ Tech stack
+
+- **Languages:** Kotlin, Java
+- **Android:** Jetpack Compose, ViewModel, StateFlow, Room, Hilt, Retrofit, Coil
+- **Architecture:** MVVM, Clean Architecture
+- **Testing & CI:** JUnit, GitHub Actions
+- **Tools:** Git, GitHub, Android Studio
+
+## 📫 Contact
+
+- LinkedIn: [Ivan Arroyo](https://www.linkedin.com/in/ivan-arroyo-5257b1203/)
+- Email: ivanarroyo2014@gmail.com
+
+I'm open to **junior Android** and **internship** roles.
